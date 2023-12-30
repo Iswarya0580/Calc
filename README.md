@@ -1,4 +1,4 @@
-![image](https://github.com/Iswarya0580/Calc/assets/149989171/f9aef637-c323-4ddf-b601-54900458a5a9)# Ex.08 Design of a Standard Calculator
+## Ex:08 Design of a simple calculator
 ## Date:29-12-2023
 
 ## AIM:
